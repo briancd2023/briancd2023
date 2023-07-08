@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... pa-auk's self-seeing practice.
 - 🌱 I’m currently learning ... Pali Tipitaka
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 📫 How to reach me ... email
 
 <!---
 briancd2023/briancd2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
